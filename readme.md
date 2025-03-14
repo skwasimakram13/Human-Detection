@@ -25,9 +25,9 @@ pip install -r requirements.txt
 
 ### 3. Required Files
 Place the following files in the project directory:
-- `yolov3.cfg`
-- `yolov3.weights`
-- `haarcascade_frontalface_default.xml`
+- `yolov3.cfg` [Download]([https://github.com/skwasimakram13](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg))
+- `yolov3.weights` [Download]([https://github.com/skwasimakram13](https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights))
+- `haarcascade_frontalface_default.xml` [Download]([https://github.com/skwasimakram13](https://github.com/opencv/opencv/blob/4.x/data/haarcascades/haarcascade_frontalface_default.xml))
 - `facevoice.mp3`
 
 ### 4. Run the Application
@@ -64,5 +64,5 @@ This will generate the `.exe` file inside the `dist/` folder.
 This project is licensed under the MIT License.
 
 ## Author
-**Your Name** - [Your GitHub](https://github.com/skwasimakram13)
+**Sk Wasim Akram** - [Sk Wasim Akram](https://github.com/skwasimakram13)
 
