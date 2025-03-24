@@ -64,5 +64,5 @@ This will generate the `.exe` file inside the `dist/` folder.
 This project is licensed under the MIT License.
 
 ## Author
-**Sk Wasim Akram** - [Sk Wasim Akram](https://github.com/skwasimakram13)
+**Develope By** - [Sk Wasim Akram](https://github.com/skwasimakram13)
 
